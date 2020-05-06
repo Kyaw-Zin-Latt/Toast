@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Toast</string>
+    <string name="hello_android">Hello Android</string>
+    <string name="showtoast">Button</string>
+    <string name="Message">message</string>
+</resources>
